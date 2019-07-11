@@ -12,7 +12,7 @@ JavaScript tools that will help us out.
 2. Append elements in the DOM
 3. Remove elements from the DOM
 
-## Create DOM Elements Programmatically 
+## Create DOM Elements Programmatically
 
 ### `document.createElement()`
 
